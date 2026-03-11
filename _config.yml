@@ -1,0 +1,22 @@
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - index.md
+  - bpmn.md
+  - about.md
+  - etl_pipeline.md
+  - team_contrib.md
+title: FHIR-Powered ETL Pipeline for Seamless Healthcare Data Interoperability
+description: |
+  Harnessing Python and FHIR APIs, this project delivers a robust ETL pipeline
+  that extracts patient and clinical data from one FHIR server, applies
+  domain-aware transformations (parent/child terminology mapping, observations,
+  procedures), and loads validated resources into a secondary FHIR endpoint.
+  It then demonstrates legacy system support via automated HL7 v2 message
+  generation. Complementary BPMN diagrams, code snippets, data insights, and team
+  reflections showcase end-to-end interoperability best practices.

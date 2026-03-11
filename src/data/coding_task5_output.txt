@@ -1,0 +1,1 @@
+MSH|^~\&|FHIR_APP|OPENEMR|HL7_ENGINE|PRIMARY_EHR|20250507151256||ADT^A01|MSG00001|P|2.5PID|1||17||Marks^Aida||20160320|FPV1||I||||||||||||||||||||||||||||||||||||||||||20250507DG1|1|R56.9|Unspecified convulsions|Seizure||FDG1|2|R56.9|Unspecified convulsions|Epilepsy||F
